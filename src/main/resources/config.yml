@@ -1,0 +1,26 @@
+# mEvents - Boss System Configuration
+
+# Boss list and random spawn chances
+# Note: It's recommended that the total chance equals 100.
+mythicmobs:
+  - name: "test1"
+    display-name: "&cAncient Dragon"
+    chance: 50
+  - name: "test2"
+    display-name: "&6Shadow Warrior "
+    chance: 30
+  - name: "test3"
+    display-name: "&bFrost Giant"
+    chance: 20
+
+# The world where the boss will spawn
+world-spawn: "world"
+
+# Random spawn coordinate boundaries
+coordinates:
+  X:
+    From: -2500
+    To: 2500
+  Z:
+    From: -2500
+    To: 2500

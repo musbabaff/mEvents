@@ -1,0 +1,13 @@
+name: mEvents
+version: ${project.version}
+main: mEvents.blockstock.mEvents.mEvents
+api-version: '1.20'
+authors: [ musbabaff ]
+softdepend: [PlaceholderAPI, LuckPerms, WorldGuard, MythicMobs]
+description: v2.0
+website: musbabaff.com
+commands:
+  kevents:
+    description: Main management command for kEvents.
+    usage: /mevents <reload|fspawn|spawn>
+    permission: mevents.admin

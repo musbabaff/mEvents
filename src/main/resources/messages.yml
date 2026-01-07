@@ -1,0 +1,9 @@
+broadcast-15: "§6[Events] §fBoss §e%mobName% §fwill spawn in 15 minutes!"
+broadcast-10: "§6[Events] §fBoss §e%mobName% §fwill spawn in 10 minutes!"
+broadcast-5: "§6[Events] §fBoss §e%mobName% §fwill spawn in 5 minutes!"
+broadcast-3: "§6[Events] §fBoss §e%mobName% §fwill spawn in 3 minutes!\nCoordinates: X: %x% Y: %y% Z: %z%"
+broadcast-spawned: "§6[Events] §fBoss §e %mobName% §f has spawned!"
+coordinates-not: "§fCoordinates not available"
+
+no-permission: "§6[Events] §cYou do not have permission to do this."
+reload-plugin: "§6[Events] §aPlugin reloaded successfully!"
